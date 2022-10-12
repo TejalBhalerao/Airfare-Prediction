@@ -1,0 +1,2 @@
+# Flight Tickets Price Prediction
+ Performed EDA on the raw dataset including steps like data cleaning, feature engineering, and feature selection. Implemented label encoding to refine data and improve prediction accuracy. Visualized data using bar plot, and heatmap. Validated the accuracy of several regression algorithms, like Linear Regression, Random Forest Regression, and KNN using spot-checking. Prediction made using Random Forest algorithm, achieving an accuracy of 83%.
